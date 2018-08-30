@@ -297,7 +297,10 @@ footer p a:hover{
 	color: #333;
 }
 
-
+#map{
+	width: 100%;
+	min-height: 300px;
+}
 
 
 
